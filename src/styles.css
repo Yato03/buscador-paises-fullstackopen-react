@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+}
+
+ul {
+  margin: auto;
+}
+
+img {
+  margin-top: 15px;
+  width: 200px;
+}
+
+.country {
+  margin-top: 10px;
+}
+
+.country button {
+  margin-left: 5px;
+}
+
+.clima {
+  width: 100px !important;
+  margin-top: 5px !important;
+}
